@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718176163 source:c:\users\91861\desktop\cp\coin combinator 1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
